@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **INMOGR**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://khairul-alam.netlify.app/)](https://razib-portfolio-sdgf.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://razib-portfolio-sdgf.netlify.app/)]
 
 - 📫 How to reach me **mhrazib121@gmail.com**
 
