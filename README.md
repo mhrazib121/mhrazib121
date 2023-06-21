@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhrazib121" alt="mhrazib121" /></a> </p>
 
-- 🔭 I’m currently working on **INMOGR**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://razib-portfolio-sdgf.netlify.app/)]
 
