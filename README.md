@@ -4,9 +4,9 @@
 
 <!-- Badge -->
 
-![Profile views](https://gpvc.arturio.dev/mhrazib121)
+![Profile views](https://komarev.com/ghpvc/?username=mhrazib121&label=Profile%20views&color=0e75b6&style=flat)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
-![Projects](https://img.shields.io/badge/projects-30-important)
+![Projects](https://img.shields.io/badge/projects-35-important)
 ![Living](https://img.shields.io/badge/living-Narsingdi-3c9)
 ![Age](https://img.shields.io/badge/age-25-blueviolet)
 [![Github](https://img.shields.io/github/followers/mhrazib121?label=Follow&style=social)](https://github.com/mhrazib121)&nbsp;
