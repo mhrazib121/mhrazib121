@@ -172,9 +172,7 @@
   <a href="mailto:mhrazib121@gmail.com" target="_blank" rel="noopener" >
   <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595841/Store/email_hbywdm.png" height="30" width="40"/>
   </a>&nbsp;
-  <a href="https://stackoverflow.com/users/18384022/mhrazib121" target="_blank" rel="noopener" >
-  <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595758/Store/stackoverflow-2_hkhiiu.png" height="30" width="40"/>
-  </a>&nbsp;
+  
   <a href="https://razib-portfolio-sdgf.netlify.app/" target="_blank" rel="noopener">
   <img align="center" src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677595758/Store/protfolio_ibvttp.png" height="30" width="40" />
   </a>
