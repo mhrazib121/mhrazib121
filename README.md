@@ -55,7 +55,7 @@
 <br />
 
 <!-- right side img -->
-<img align='right' height='180'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
+<img align="right" alt="coding" width="350" height="220" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
 <br />
 
